@@ -24,5 +24,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 git add *
 git commit -m "first commit"
-git remote add origin https://github.com/Xingyb14/Test.git
+git remote add origin https://github.com/chenchunjie/translate-test
 git push -u origin master
+
