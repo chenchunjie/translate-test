@@ -20,3 +20,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## git提交代码命令
+
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/Xingyb14/Test.git
+git push -u origin master

@@ -5,6 +5,7 @@ import {TranslateService} from '@ngx-translate/core';
   selector: 'app-root',
   template: `
     <div>
+      <h1>angular语言国际化</h1>
       <h2>{{ 'HOME.TITLE' | translate }}</h2>
       <label>
         {{ 'HOME.SELECT' | translate }}
