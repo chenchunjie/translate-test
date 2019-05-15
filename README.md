@@ -26,5 +26,3 @@ git add *
 git commit -m "first commit"
 git remote add origin https://github.com/chenchunjie/translate-test
 git push -u origin master
-
-合并分支
