@@ -28,5 +28,3 @@ git remote add origin https://github.com/chenchunjie/translate-test
 git push -u origin master
 
 test again
-test again
-test again
